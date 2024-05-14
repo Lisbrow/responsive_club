@@ -18,7 +18,7 @@ This project focuses on creating a responsive website for a book club, allowing 
 
 To view the Borcelle Book Club Website project, simply visit the live demo [https://lisbrow.github.io/responsive_club/](https://lisbrow.github.io/responsive_club/) in your web browser.
 
-## Technologies Used
+## Languages Used
 
 - HTML
 - CSS (with media queries for responsiveness)
