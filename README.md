@@ -1,5 +1,7 @@
 # Borcelle Book Club Website
 
+![Preview](project-responsiveclub.png)
+
 Welcome to the Borcelle Book Club Website project! This project involves building a club group page for a book club that dynamically responds to changes in screen size, ensuring a seamless user experience across various devices.
 
 ## Project Overview
